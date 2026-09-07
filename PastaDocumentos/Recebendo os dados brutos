@@ -1,1 +1,6 @@
 Recebendo dados Brutos e Desorganizados para identificação erros e inconsistencias 
+
+Neste item, devemos identificar:
+•Onde há redundância?
+•Os dados estão consistentes?
+•Há algum erro lógico (por exemplo, nota maior que 10, data inválida, etc)?
