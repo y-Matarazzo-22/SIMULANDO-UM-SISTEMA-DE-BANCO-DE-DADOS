@@ -13,8 +13,8 @@ Neste item, você deve identificar:
 •Os dados estão consistentes?
 •Há algum erro lógico (por exemplo, nota maior que 10, data inválida, etc)?
 
-1.1 Estruturando dados brutos
-Neste  item,  analise  a  planilha  e  identifique  quais elementospodem  ser considerados como dados brutos, para:
+2. Estruturando dados brutos
+Neste  item,  analise  a  planilha  e  identifique  quais elementos podem  ser considerados como dados brutos, para:
 •ALUNO;
 •CURSO; 
 •MATRÍCULA (considerando notas).
